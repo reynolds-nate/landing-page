@@ -1,4 +1,4 @@
-# landing-page
+# odin-landing-page
 
 ### Explanation
 Simple Landing Page using Flexbox for layout
